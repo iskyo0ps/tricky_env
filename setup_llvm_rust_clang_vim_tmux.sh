@@ -12,6 +12,7 @@ sudo apt-get purge llvm-* llvm-*-dev llvm-*-tools clang-*
 sudo apt autoremove
 
 # install clang and llvm related 
+# https://apt.llvm.org/
 sudo apt-get install build-essential zlib1g-dev python
 wget https://apt.llvm.org/llvm.sh
 chmod +x llvm.sh
