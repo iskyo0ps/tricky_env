@@ -1,4 +1,3 @@
-
 sudo apt install git wget 
 sudo apt install tmux
 # update the vim for keyboard mismapping
