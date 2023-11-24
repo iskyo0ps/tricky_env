@@ -15,7 +15,7 @@ sudo apt autoremove
 sudo apt-get install build-essential zlib1g-dev python
 wget https://apt.llvm.org/llvm.sh
 chmod +x llvm.sh
-sudo ./llvm.sh 16
+sudo ./llvm.sh 17
 # wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add -
 # sudo apt-add-repository "deb http://apt.llvm.org/jammy/ llvm-toolchain-jammy-16 main"
 # sudo apt-get update
